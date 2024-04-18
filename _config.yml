@@ -22,7 +22,7 @@ github_username: haznaranv
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: haznaranv
-disqus_url: "http://lixizhi.github.io"
+# disqus_url: "http://lixizhi.github.io"
 #########################################
 
 # Build settings
