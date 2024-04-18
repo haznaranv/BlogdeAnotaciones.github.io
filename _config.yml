@@ -7,22 +7,22 @@ description: Blog Tips & Development
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 
-# baseurl: "" # the subpath of your site, e.g. /haznaranv/
-url: "https://github.com/haznaranv/BlogdeAnotaciones.github.io" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog/
+ #url: "https://blogdeanotaciones.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: haznaranv
 # permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 # viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
 # this is the url root of the create page link on the footer page.
-# newsourceroot: https://blogdeanotaciones.github.io/
+newsourceroot: https://github.com/haznaranv/blogdeanotaciones.github.io/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com.
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: haznaranv
-# disqus_url: "http://lixizhi.github.io"
+disqus_url: "http://lixizhi.github.io"
 #########################################
 
 # Build settings
