@@ -8,7 +8,7 @@ description: Blog Tips & Development
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
- #url: "https://blogdeanotaciones.github.io" # the base hostname & protocol for your site
+url: "https://github.com/haznaranv/blogdeanotaciones.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username: haznaranv
 # permalink: /:year/:month/:day/:title/
